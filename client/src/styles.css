@@ -4,6 +4,7 @@
 @import "~font-awesome/css/font-awesome.css";
 @import "~ngx-toastr/toastr.css";
 @import  "~bootswatch/dist/darkly/bootstrap.css";
+@import "~ngx-spinner/animations/line-scale-party.css";
 
 .tab-pane {
     border: 1px solid #303030;
